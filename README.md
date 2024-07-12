@@ -1,2 +1,2 @@
-# [Pipelines](Pipelines/WGS_germline)
+# [Pipelines](WGS_germline)
 Bioinformatics Platform's pipelines
